@@ -5,5 +5,5 @@ Features:
 
 1) Arbitrary domain size
 2) Structured mesh with triangular elements and mesh size control
-3) Allows for temperature, heat flux and convection boundary conditions along with internal heat generation
+3) Allows for temperature, heat flux and convection boundary conditions along with local heat generation
 4) Results displayed in terms of a 2D heat flux plot and a 3D temperature distribution plot
